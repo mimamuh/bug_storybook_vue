@@ -1,0 +1,11 @@
+{
+	"scripts": {
+        "storybook": "start-storybook -p 9001"
+    },
+	"devDependencies": {
+		"@storybook/vue": "^3.2.16",
+		"vue": "^2.5.3",
+		"vue-loader": "^13.5.0",
+		"vue-template-compiler": "^2.5.3"
+	}
+}
